@@ -1,2 +1,2 @@
 # hactober2020
-My First Repo
+My First Repository
